@@ -1,0 +1,3 @@
+                 ## POLYMORPHISM TO A 5 YEAR OLD  
+
+   Polymorphism is the capability of a method to do different things based on the object that it is acting upon. In other words, polymorphism is like your hand, you can use it to clean your room, you can use it to eat, you can use it to play with your toys, it is still the same hand but it is performing different tasks(functions) based on the object it is recieves, an object is an example of something at a point in time, an instance of a group like you are in primary two with all your classmates so you are an object of primary two
