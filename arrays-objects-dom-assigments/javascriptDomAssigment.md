@@ -1,0 +1,4 @@
+                         ## Javascript DOM  
+
+DOM (document object model) is a way that programming languages interface and manipulate the web document like html or xml  pages. A popular language used for DOM manipulation or scripting is Javascript which sees the web document as objects and nodes and access the elements with different methods like the queryselectall which access the dom with notations with dot notation or bracket notation.
+javascript dom is used to program the DOM like giving it different features and functionality, it is also used to add new elements or modify the document.the dom is a very powerful tool that enable interfacing with a programming language as javascript cant understand html document, it can only understand the dom of the html and sees it in nodes which are element node,attribute node and page node.
